@@ -23,7 +23,7 @@
 
 1. Clone the repository
     ```
-    git clone https://gitlab.com/NaufalK25/fejs-4-x-bejs-4-kel-6-secondhand.git
+    git clone git@github.com:LuthfiyahS/secondhand-ecommerce-restAPI.git
     ```
 2. Install dependencies
     ```
